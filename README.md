@@ -1,3 +1,4 @@
+# Enhancing 3D Intra-Oral Tooth Segmentation through Multi-Scale Feature Fusion and Cross-Domain Integration
 ## Prequisites
 + python 3.7.4
 + pytorch 1.4.0
